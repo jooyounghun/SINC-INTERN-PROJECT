@@ -1,6 +1,16 @@
 # SINC-INTERNSHIP-PROJECT
 SINC INTERSHIP PROJECT SUBJECT:SSR
 
+> Title
+<table>
+  <tr>
+    <td>
+     <img src="image/img.png"/>
+    </td>
+  </tr>
+</table>
+
+
 ___
 ## Introduction
 we propose how do our corporate get high-rated activation on our App, "SSG PAY"
@@ -55,14 +65,6 @@ we propose how do our corporate get high-rated activation on our App, "SSG PAY"
 
 
 > Image
-
-<table>
-  <tr>
-    <td>
-     <img src="image/img.png"/>
-    </td>
-  </tr>
-</table>
 
 <table>
   <tr>
