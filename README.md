@@ -43,6 +43,16 @@ we propose how do our corporate get high-rated activation on our App, "SSG PAY"
 * Study Spring framework, JAVA
 * Study Mobile Programming on Android studio.
 
+## WORKFLOW 1: Processing in Store.
+
+<table>
+  <tr>
+    <td>
+     <img src="image/workflowimg.png"/>
+    </td>
+  </tr>
+</table>
+
 
 > Image
 
