@@ -1,6 +1,15 @@
 # SINC-INTERNSHIP-PROJECT
 SINC INTERSHIP PROJECT SUBJECT:SSR
 
+<table>
+  <tr>
+    <td>
+     <img src="image/img.png"/>
+    </td>
+  </tr>
+</table>
+
+
 ___
 ## Introduction
 we propose how do our corporate get high-rated activation on our App, "SSG PAY"
@@ -43,16 +52,18 @@ we propose how do our corporate get high-rated activation on our App, "SSG PAY"
 * Study Spring framework, JAVA
 * Study Mobile Programming on Android studio.
 
-
-> Image
+## WORKFLOW 1: Processing in Store.
 
 <table>
   <tr>
     <td>
-     <img src="image/img.png"/>
+     <img src="image/workflowimg.png"/>
     </td>
   </tr>
 </table>
+
+
+> Image
 
 <table>
   <tr>
