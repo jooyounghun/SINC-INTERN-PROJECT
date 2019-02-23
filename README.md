@@ -1,7 +1,6 @@
 # SINC-INTERNSHIP-PROJECT
 SINC INTERSHIP PROJECT SUBJECT:SSR
 
-> Title
 <table>
   <tr>
     <td>
