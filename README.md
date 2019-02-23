@@ -62,6 +62,15 @@ we propose how do our corporate get high-rated activation on our App, "SSG PAY"
   </tr>
 </table>
 
+## WORKFLOW 2: Walking Processing.
+
+<table>
+  <tr>
+    <td>
+     <img src="image/workflowimg2.png"/>
+    </td>
+  </tr>
+</table>
 
 > Image
 
