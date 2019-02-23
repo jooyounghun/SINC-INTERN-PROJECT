@@ -15,7 +15,8 @@ we propose how do our corporate get high-rated activation on our App, "SSG PAY"
 - Beacon Processing
 
 ## Mobile Programming
-- we have to download android studio, and get some mobile phone machine for testing.
+- download program from this [link](https://developer.android.com/studio/?hl=ko) and put it in this project
+- Need: mobile machine for testing.
 ## Beacon Processing
 - Reference from this [link](https://ko.wikipedia.org/wiki/%EB%B9%84%EC%BD%98) and adjust it in this project
 ## Spring Framework Job
