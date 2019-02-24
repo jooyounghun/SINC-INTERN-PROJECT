@@ -1,5 +1,5 @@
 # SINC-INTERNSHIP-PROJECT
-SINC INTERSHIP PROJECT SUBJECT:SSR
+SINC INTERNSHIP PROJECT SUBJECT:SSR
 
 <table>
   <tr>
@@ -12,20 +12,20 @@ SINC INTERSHIP PROJECT SUBJECT:SSR
 
 ___
 ## Introduction
-we propose how do our corporate get high-rated activation on our App, "SSG PAY"
+This Project proposes a solution to increase the app-usage time / in-app purchase amount of SSG pay
 
 ## Requirements
 
-- Python code for data modeling
+- Python source code for data modeling
 - Mobile programming using android studio
-- JAVA Spring code for MVC Pattern.
+- JAVA Spring source code using MVC Pattern.
 - STS(Spring Tool Suite) 4 ver.
 - python *
 - Beacon Processing
 
 ## Mobile Programming
 - download program from this [link](https://developer.android.com/studio/?hl=ko) and put it in this project
-- Need: mobile machine for testing.
+- Requirement: mobile machine for testing.
 ## Beacon Processing
 - Reference from this [link](https://ko.wikipedia.org/wiki/%EB%B9%84%EC%BD%98) and adjust it in this project
 ## Spring Framework Job
@@ -35,7 +35,7 @@ we propose how do our corporate get high-rated activation on our App, "SSG PAY"
 ## DB Architecture
 - not yet
 ## FireBase Cloud Messaging
-- Reference from this [link](https://firebase.google.com/docs/cloud-messaging/?hl=ko) and adjust it in this project
+- Refer to [link](https://firebase.google.com/docs/cloud-messaging/?hl=ko) and adjust it in this project
 
 ## TODO
 * Beacon purchasing
