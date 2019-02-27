@@ -36,7 +36,7 @@ This Project proposes a solution to increase the app-usage time / in-app purchas
 <table>
   <tr>
     <td>
-     <img src="image/db_img"/>
+     <img src="image/db_img.png"/>
     </td>
   </tr>
 </table>
