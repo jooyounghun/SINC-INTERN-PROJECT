@@ -33,7 +33,13 @@ This Project proposes a solution to increase the app-usage time / in-app purchas
 ## Python Modeling
 - not yet
 ## DB Architecture
-
+<table>
+  <tr>
+    <td>
+     <img src="image/db_img.png"/>
+    </td>
+  </tr>
+</table>
 ## FireBase Cloud Messaging
 - Refer to [link](https://firebase.google.com/docs/cloud-messaging/?hl=ko) and adjust it in this project
 
