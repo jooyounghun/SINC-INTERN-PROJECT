@@ -42,7 +42,7 @@ This Project proposes a solution to increase the app-usage time / in-app purchas
 </table>
 ## FireBase Cloud Messaging
 - Refer to [link](https://firebase.google.com/docs/cloud-messaging/?hl=ko) and adjust it in this project
-
+d
 ## TODO
 * Beacon purchasing
 * Designing DB Architecture 
